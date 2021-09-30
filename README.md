@@ -1,2 +1,3 @@
-HI!
-MOVIE-APP
+# Movie app
+
+React JS Fundamentals Course
